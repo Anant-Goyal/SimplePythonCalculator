@@ -1,2 +1,2 @@
 # SimplePythonCalculator
-This is a Simple Basic Python Calculator.
+Hey all Friends , This is a Basic Simple Python Calculator.
